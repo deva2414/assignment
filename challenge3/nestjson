@@ -1,0 +1,30 @@
+{
+    "user1": {
+      "email": "deva@gmail.com",
+      "status": "ACTIVE",
+      "userId": "deva14",
+      "phno": 123456,
+      "accesses": [
+        "computer1"
+      ],
+      "personId": 2414,
+      "isPrimary": true,
+      "projectGroupIds": [
+        "bigproj"
+      ]
+    },
+    "user2": {
+        "email": "nandu@gmail.com",
+        "status": "ACTIVE",
+        "userId": "nandu24",
+        "unixUid": 89765,
+        "accesses": [
+          "computer1"
+        ],
+        "personId": 1414,
+        "isPrimary": false,
+        "projectGroupIds": [
+          "bigproj"
+        ]
+      }
+}
