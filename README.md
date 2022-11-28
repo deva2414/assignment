@@ -30,6 +30,8 @@
 * secrets.tfvars
 
 ==============================================================
+
+
 Challenge 2
 
 Shell scripting to get the metadata of an instance in json format and keyData
@@ -39,6 +41,8 @@ link given below
 https://learn.microsoft.com/en-us/azure/virtual-machines/windows/instance-metadata-service?tabs=linux
 
 ================================================================
+
+
 Challenge 3 
 
 Shell scripting to get the values of a nested object
